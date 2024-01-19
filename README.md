@@ -1,3 +1,12 @@
+# THIS APP WAS CREATED TO FIND OUT IF YOUR EMAIL INFO HAS BEEN COMPROMISED
+
+# TO MAKE THIS APP WORK:
+1. Get the API key at: https://haveibeenpwned.com/API/Key
+For a fee $
+2. Use this backend app: https://github.com/isek7or/breach-detection-backend
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
